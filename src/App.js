@@ -1,7 +1,17 @@
+import styles from "./App.css";
+
 function App() {
   return (
-    <div>
-      <h2>Let's get started!</h2>
+    <div id="main">
+      <h2>Todo List</h2>
+      <div className="navbar">
+        
+            <h3>Home</h3>
+            <h3>Login</h3>
+            <h3>Sign up</h3>
+            <h3>About</h3>
+
+      </div>
     </div>
   );
 }

@@ -1,0 +1,13 @@
+
+.navbar {
+    border:1px solid red;
+    display:flex;
+    justify-content: space-evenly;
+    width:100%;
+    height:50px;
+
+}
+.navbar>h3{
+    margin-bottom: 20px;
+
+}    
